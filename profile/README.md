@@ -25,11 +25,14 @@
 <br><br><br>
 
 ## 03. Member
-|![지용](https://avatars.githubusercontent.com/u/156050624?v=4)|![은지](https://avatars.githubusercontent.com/u/89649741?v=4)|![정우](https://avatars.githubusercontent.com/u/166903930?v=4)|![윤섭](https://avatars.githubusercontent.com/u/178368952?v=4)|![현종](https://avatars.githubusercontent.com/u/114475395?v=4)|
-|:---:|:---:|:---:|:---:|:---:|
-|[지용](https://github.com/WholeLottaYong?tab=repositories)|[은지](https://github.com/EunByu1)|[정우](https://github.com/SolBam)|[윤섭](https://github.com/choiyunseop)|[현종](https://github.com/guswhd?tab=repositories)|
-|![경환]()|![준영](https://avatars.githubusercontent.com/u/60430391?v=4)|
-|[경환]()|[준영](https://github.com/kriket-kim/)|
+| <img src="https://avatars.githubusercontent.com/u/156050624?v=4" width="160"/> | <img src="https://avatars.githubusercontent.com/u/89649741?v=4" width="200"/> | <img src="https://avatars.githubusercontent.com/u/166903930?v=4" width="200"/> | <img src="https://avatars.githubusercontent.com/u/178368952?v=4" width="160"/> |
+|:---:|:---:|:---:|:---:|
+| [지용](https://github.com/WholeLottaYong?tab=repositories) | [은지](https://github.com/EunByu1) | [정우](https://github.com/SolBam) | [윤섭](https://github.com/choiyunseop) |
+
+| <img src="https://avatars.githubusercontent.com/u/139937235?v=4" width="160"/> | <img src="https://avatars.githubusercontent.com/u/114475395?v=4" width="200"/> | <img src="https://avatars.githubusercontent.com/u/60430391?v=4" width="200"/> | <img src="https://avatars.githubusercontent.com/u/0?v=4" width="160"/> |
+|:---:|:---:|:---:|:---:|
+| [경환](https://github.com/8lvReroll) | [현종](https://github.com/guswhd?tab=repositories) | [준영](https://github.com/kriket-kim/) |  |
+
 
 <br><br><br>
 
