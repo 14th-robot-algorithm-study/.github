@@ -39,7 +39,7 @@
 ## 04. Study Plan
 |주차|문제|
 |:----|-----|
-|<span style="color:purple">1주차<span>|구현의탑-폭탄터뜨리기|
+|<span style="color:purple">[1주차](https://github.com/14th-robot-algorithm-study/week1)<span>|구현의탑-폭탄터뜨리기|
 ||문제-링크|
 ||문제-링크|
 ||문제-링크|
