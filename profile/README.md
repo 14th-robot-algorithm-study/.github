@@ -31,7 +31,7 @@
 
 | <img src="https://avatars.githubusercontent.com/u/139937235?v=4" width="160"/> | <img src="https://avatars.githubusercontent.com/u/114475395?v=4" width="160"/> | <img src="https://avatars.githubusercontent.com/u/60430391?v=4" width="160"/> | <img src="https://avatars.githubusercontent.com/u/0?v=4" width="160"/> |
 |:---:|:---:|:---:|:---:|
-| [경환](https://github.com/8lvReroll) | [현종](https://github.com/guswhd?tab=repositories) | [준영](https://github.com/kriket-kim/) |  |
+| [경한](https://github.com/8lvReroll) | [현종](https://github.com/guswhd?tab=repositories) | [준영](https://github.com/kriket-kim/) |  |
 
 
 <br><br><br>
